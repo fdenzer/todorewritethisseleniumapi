@@ -324,3 +324,547 @@ console.error: services.settings:
 console.error: services.settings: 
   main/doh-config local data was corrupted
 console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+1627244726046	geckodriver	INFO	Listening on 127.0.0.1:60192
+1627244727074	mozrunner::runner	INFO	Running command: "/Users/fdenzer/Downloads/_/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/var/folders/sc/hfnd6xx91gncnv87fbx_wnqw0000gn/T/rust_mozprofileWCRSE4"
+*** You are running in headless mode.
+1627244727316	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/sc/hfnd6xx91gncnv87fbx_wnqw0000gn/T/rust_mozprofileWCRSE4/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 243"  data: no]
+1627244728013	Marionette	INFO	Listening on port 60209
+1627244728122	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cf.geekdo-static.com/static/js_master2_60fadf6804533.js, line 1195: unreachable code after return statement
+JavaScript warning: https://cf.geekdo-static.com/static/js_master2_60fadf6804533.js, line 1342: unreachable code after return statement
+JavaScript warning: https://cf.geekdo-static.com/static/js_master2_60fadf6804533.js, line 1375: unreachable code after return statement
+JavaScript warning: https://cf.geekdo-static.com/static/js_master2_60fadf6804533.js, line 1195: unreachable code after return statement
+JavaScript warning: https://cf.geekdo-static.com/static/js_master2_60fadf6804533.js, line 1342: unreachable code after return statement
+JavaScript warning: https://cf.geekdo-static.com/static/js_master2_60fadf6804533.js, line 1375: unreachable code after return statement
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1627244735491	geckodriver	INFO	Listening on 127.0.0.1:60300
+1627244735505	mozrunner::runner	INFO	Running command: "/Users/fdenzer/Downloads/_/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/var/folders/sc/hfnd6xx91gncnv87fbx_wnqw0000gn/T/rust_mozprofilecsgpYq"
+*** You are running in headless mode.
+1627244735696	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/sc/hfnd6xx91gncnv87fbx_wnqw0000gn/T/rust_mozprofilecsgpYq/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 243"  data: no]
+1627244736234	Marionette	INFO	Listening on port 60309
+1627244736243	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cf.geekdo-static.com/static/js_master2_60fadf6804533.js, line 1195: unreachable code after return statement
+JavaScript warning: https://cf.geekdo-static.com/static/js_master2_60fadf6804533.js, line 1342: unreachable code after return statement
+JavaScript warning: https://cf.geekdo-static.com/static/js_master2_60fadf6804533.js, line 1375: unreachable code after return statement
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1627244788028	geckodriver	INFO	Listening on 127.0.0.1:60440
+1627244788039	mozrunner::runner	INFO	Running command: "/Users/fdenzer/Downloads/_/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/var/folders/sc/hfnd6xx91gncnv87fbx_wnqw0000gn/T/rust_mozprofileTDggY2"
+*** You are running in headless mode.
+1627244788259	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/sc/hfnd6xx91gncnv87fbx_wnqw0000gn/T/rust_mozprofileTDggY2/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 243"  data: no]
+1627244789064	Marionette	INFO	Listening on port 60449
+1627244789095	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cf.geekdo-static.com/static/js_master2_60fadf6804533.js, line 1195: unreachable code after return statement
+JavaScript warning: https://cf.geekdo-static.com/static/js_master2_60fadf6804533.js, line 1342: unreachable code after return statement
+JavaScript warning: https://cf.geekdo-static.com/static/js_master2_60fadf6804533.js, line 1375: unreachable code after return statement
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1627244820204	geckodriver	INFO	Listening on 127.0.0.1:60564
+1627244820216	mozrunner::runner	INFO	Running command: "/Users/fdenzer/Downloads/_/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/var/folders/sc/hfnd6xx91gncnv87fbx_wnqw0000gn/T/rust_mozprofile5HAFn8"
+*** You are running in headless mode.
+1627244820404	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/sc/hfnd6xx91gncnv87fbx_wnqw0000gn/T/rust_mozprofile5HAFn8/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 243"  data: no]
+1627244821070	Marionette	INFO	Listening on port 60573
+1627244821162	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cf.geekdo-static.com/static/js_master2_60fadf6804533.js, line 1195: unreachable code after return statement
+JavaScript warning: https://cf.geekdo-static.com/static/js_master2_60fadf6804533.js, line 1342: unreachable code after return statement
+JavaScript warning: https://cf.geekdo-static.com/static/js_master2_60fadf6804533.js, line 1375: unreachable code after return statement
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+1627245019681	geckodriver	INFO	Listening on 127.0.0.1:60853
+1627245019692	mozrunner::runner	INFO	Running command: "/Users/fdenzer/Downloads/_/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/var/folders/sc/hfnd6xx91gncnv87fbx_wnqw0000gn/T/rust_mozprofileLh2ErG"
+*** You are running in headless mode.
+1627245019929	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/sc/hfnd6xx91gncnv87fbx_wnqw0000gn/T/rust_mozprofileLh2ErG/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 243"  data: no]
+1627245020652	Marionette	INFO	Listening on port 60862
+1627245020746	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cf.geekdo-static.com/static/js_master2_60fadf6804533.js, line 1195: unreachable code after return statement
+JavaScript warning: https://cf.geekdo-static.com/static/js_master2_60fadf6804533.js, line 1342: unreachable code after return statement
+JavaScript warning: https://cf.geekdo-static.com/static/js_master2_60fadf6804533.js, line 1375: unreachable code after return statement
+1627245021964	Marionette	INFO	Stopped listening on port 60862
+1627245058999	geckodriver	INFO	Listening on 127.0.0.1:60952
+1627245060026	mozrunner::runner	INFO	Running command: "/Users/fdenzer/Downloads/_/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/var/folders/sc/hfnd6xx91gncnv87fbx_wnqw0000gn/T/rust_mozprofilexM3lIO"
+*** You are running in headless mode.
+1627245060314	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/sc/hfnd6xx91gncnv87fbx_wnqw0000gn/T/rust_mozprofilexM3lIO/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 243"  data: no]
+1627245061000	Marionette	INFO	Listening on port 60963
+1627245061088	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cf.geekdo-static.com/static/js_master2_60fadf6804533.js, line 1195: unreachable code after return statement
+JavaScript warning: https://cf.geekdo-static.com/static/js_master2_60fadf6804533.js, line 1342: unreachable code after return statement
+JavaScript warning: https://cf.geekdo-static.com/static/js_master2_60fadf6804533.js, line 1375: unreachable code after return statement
+JavaScript warning: https://cf.geekdo-static.com/static/js_master2_60fadf6804533.js, line 1195: unreachable code after return statement
+JavaScript warning: https://cf.geekdo-static.com/static/js_master2_60fadf6804533.js, line 1342: unreachable code after return statement
+JavaScript warning: https://cf.geekdo-static.com/static/js_master2_60fadf6804533.js, line 1375: unreachable code after return statement
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1627245095876	geckodriver	INFO	Listening on 127.0.0.1:61088
+1627245095885	mozrunner::runner	INFO	Running command: "/Users/fdenzer/Downloads/_/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/var/folders/sc/hfnd6xx91gncnv87fbx_wnqw0000gn/T/rust_mozprofileqai0TH"
+*** You are running in headless mode.
+1627245096110	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/sc/hfnd6xx91gncnv87fbx_wnqw0000gn/T/rust_mozprofileqai0TH/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 243"  data: no]
+1627245096823	Marionette	INFO	Listening on port 61097
+1627245096937	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cf.geekdo-static.com/static/js_master2_60fadf6804533.js, line 1195: unreachable code after return statement
+JavaScript warning: https://cf.geekdo-static.com/static/js_master2_60fadf6804533.js, line 1342: unreachable code after return statement
+JavaScript warning: https://cf.geekdo-static.com/static/js_master2_60fadf6804533.js, line 1375: unreachable code after return statement
+JavaScript warning: https://cf.geekdo-static.com/static/js_master2_60fadf6804533.js, line 1195: unreachable code after return statement
+JavaScript warning: https://cf.geekdo-static.com/static/js_master2_60fadf6804533.js, line 1342: unreachable code after return statement
+JavaScript warning: https://cf.geekdo-static.com/static/js_master2_60fadf6804533.js, line 1375: unreachable code after return statement
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+1627245345429	geckodriver	INFO	Listening on 127.0.0.1:61501
+1627245345440	mozrunner::runner	INFO	Running command: "/Users/fdenzer/Downloads/_/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/var/folders/sc/hfnd6xx91gncnv87fbx_wnqw0000gn/T/rust_mozprofileKh17a4"
+*** You are running in headless mode.
+1627245345693	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/sc/hfnd6xx91gncnv87fbx_wnqw0000gn/T/rust_mozprofileKh17a4/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 243"  data: no]
+1627245346489	Marionette	INFO	Listening on port 61510
+1627245346600	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cf.geekdo-static.com/static/js_master2_60fadf6804533.js, line 1195: unreachable code after return statement
+JavaScript warning: https://cf.geekdo-static.com/static/js_master2_60fadf6804533.js, line 1342: unreachable code after return statement
+JavaScript warning: https://cf.geekdo-static.com/static/js_master2_60fadf6804533.js, line 1375: unreachable code after return statement
+JavaScript warning: https://cf.geekdo-static.com/static/js_master2_60fadf6804533.js, line 1195: unreachable code after return statement
+JavaScript warning: https://cf.geekdo-static.com/static/js_master2_60fadf6804533.js, line 1342: unreachable code after return statement
+JavaScript warning: https://cf.geekdo-static.com/static/js_master2_60fadf6804533.js, line 1375: unreachable code after return statement
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1627245394597	geckodriver	INFO	Listening on 127.0.0.1:61701
+1627245394606	mozrunner::runner	INFO	Running command: "/Users/fdenzer/Downloads/_/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/var/folders/sc/hfnd6xx91gncnv87fbx_wnqw0000gn/T/rust_mozprofile4RmG6k"
+*** You are running in headless mode.
+1627245394836	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/sc/hfnd6xx91gncnv87fbx_wnqw0000gn/T/rust_mozprofile4RmG6k/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 243"  data: no]
+1627245395570	Marionette	INFO	Listening on port 61710
+1627245395668	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cf.geekdo-static.com/static/js_master2_60fadf6804533.js, line 1195: unreachable code after return statement
+JavaScript warning: https://cf.geekdo-static.com/static/js_master2_60fadf6804533.js, line 1342: unreachable code after return statement
+JavaScript warning: https://cf.geekdo-static.com/static/js_master2_60fadf6804533.js, line 1375: unreachable code after return statement
+JavaScript warning: https://cf.geekdo-static.com/static/js_master2_60fadf6804533.js, line 1195: unreachable code after return statement
+JavaScript warning: https://cf.geekdo-static.com/static/js_master2_60fadf6804533.js, line 1342: unreachable code after return statement
+JavaScript warning: https://cf.geekdo-static.com/static/js_master2_60fadf6804533.js, line 1375: unreachable code after return statement
+1627245398057	Marionette	INFO	Stopped listening on port 61710
+1627245410383	geckodriver	INFO	Listening on 127.0.0.1:61855
+1627245410395	mozrunner::runner	INFO	Running command: "/Users/fdenzer/Downloads/_/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/var/folders/sc/hfnd6xx91gncnv87fbx_wnqw0000gn/T/rust_mozprofilecHXacR"
+*** You are running in headless mode.
+1627245410624	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/sc/hfnd6xx91gncnv87fbx_wnqw0000gn/T/rust_mozprofilecHXacR/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 243"  data: no]
+1627245411162	Marionette	INFO	Listening on port 61864
+1627245411240	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cf.geekdo-static.com/static/js_master2_60fadf6804533.js, line 1195: unreachable code after return statement
+JavaScript warning: https://cf.geekdo-static.com/static/js_master2_60fadf6804533.js, line 1342: unreachable code after return statement
+JavaScript warning: https://cf.geekdo-static.com/static/js_master2_60fadf6804533.js, line 1375: unreachable code after return statement
+JavaScript warning: https://cf.geekdo-static.com/static/js_master2_60fadf6804533.js, line 1195: unreachable code after return statement
+JavaScript warning: https://cf.geekdo-static.com/static/js_master2_60fadf6804533.js, line 1342: unreachable code after return statement
+JavaScript warning: https://cf.geekdo-static.com/static/js_master2_60fadf6804533.js, line 1375: unreachable code after return statement
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1627245462483	geckodriver	INFO	Listening on 127.0.0.1:62214
+1627245462496	mozrunner::runner	INFO	Running command: "/Users/fdenzer/Downloads/_/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/var/folders/sc/hfnd6xx91gncnv87fbx_wnqw0000gn/T/rust_mozprofileV2YPkr"
+*** You are running in headless mode.
+1627245462736	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/sc/hfnd6xx91gncnv87fbx_wnqw0000gn/T/rust_mozprofileV2YPkr/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 243"  data: no]
+1627245463283	Marionette	INFO	Listening on port 62223
+1627245463339	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cf.geekdo-static.com/static/js_master2_60fadf6804533.js, line 1195: unreachable code after return statement
+JavaScript warning: https://cf.geekdo-static.com/static/js_master2_60fadf6804533.js, line 1342: unreachable code after return statement
+JavaScript warning: https://cf.geekdo-static.com/static/js_master2_60fadf6804533.js, line 1375: unreachable code after return statement
+JavaScript warning: https://cf.geekdo-static.com/static/js_master2_60fadf6804533.js, line 1195: unreachable code after return statement
+JavaScript warning: https://cf.geekdo-static.com/static/js_master2_60fadf6804533.js, line 1342: unreachable code after return statement
+JavaScript warning: https://cf.geekdo-static.com/static/js_master2_60fadf6804533.js, line 1375: unreachable code after return statement
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1627245500530	geckodriver	INFO	Listening on 127.0.0.1:62489
+1627245500543	mozrunner::runner	INFO	Running command: "/Users/fdenzer/Downloads/_/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/var/folders/sc/hfnd6xx91gncnv87fbx_wnqw0000gn/T/rust_mozprofileyWgnYC"
+*** You are running in headless mode.
+1627245500768	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/sc/hfnd6xx91gncnv87fbx_wnqw0000gn/T/rust_mozprofileyWgnYC/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 243"  data: no]
+1627245501527	Marionette	INFO	Listening on port 62498
+1627245501599	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cf.geekdo-static.com/static/js_master2_60fadf6804533.js, line 1195: unreachable code after return statement
+JavaScript warning: https://cf.geekdo-static.com/static/js_master2_60fadf6804533.js, line 1342: unreachable code after return statement
+JavaScript warning: https://cf.geekdo-static.com/static/js_master2_60fadf6804533.js, line 1375: unreachable code after return statement
+JavaScript warning: https://cf.geekdo-static.com/static/js_master2_60fadf6804533.js, line 1195: unreachable code after return statement
+JavaScript warning: https://cf.geekdo-static.com/static/js_master2_60fadf6804533.js, line 1342: unreachable code after return statement
+JavaScript warning: https://cf.geekdo-static.com/static/js_master2_60fadf6804533.js, line 1375: unreachable code after return statement
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+1627245510000	geckodriver	INFO	Listening on 127.0.0.1:62613
+1627245510008	mozrunner::runner	INFO	Running command: "/Users/fdenzer/Downloads/_/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/var/folders/sc/hfnd6xx91gncnv87fbx_wnqw0000gn/T/rust_mozprofileO6wXdI"
+*** You are running in headless mode.
+1627245510217	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/sc/hfnd6xx91gncnv87fbx_wnqw0000gn/T/rust_mozprofileO6wXdI/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 243"  data: no]
+1627245510931	Marionette	INFO	Listening on port 62622
+1627245510949	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cf.geekdo-static.com/static/js_master2_60fadf6804533.js, line 1195: unreachable code after return statement
+JavaScript warning: https://cf.geekdo-static.com/static/js_master2_60fadf6804533.js, line 1342: unreachable code after return statement
+JavaScript warning: https://cf.geekdo-static.com/static/js_master2_60fadf6804533.js, line 1375: unreachable code after return statement
+JavaScript warning: https://cf.geekdo-static.com/static/js_master2_60fadf6804533.js, line 1195: unreachable code after return statement
+JavaScript warning: https://cf.geekdo-static.com/static/js_master2_60fadf6804533.js, line 1342: unreachable code after return statement
+JavaScript warning: https://cf.geekdo-static.com/static/js_master2_60fadf6804533.js, line 1375: unreachable code after return statement
+JavaScript error: https://platform.twitter.com/widgets/widget_iframe.06c6ee58c3810956b7509218508c7b56.html?origin=https%3A%2F%2Fwww.boardgamegeek.com, line 18: Error: Network error.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/9ed6_nQfnMrUg05r027NxL2aUp_091DFxQGup7yyecw.js line 1 > eval line 5076 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/9ed6_nQfnMrUg05r027NxL2aUp_091DFxQGup7yyecw.js line 1 > eval line 6083 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://pagead2.googlesyndication.com/bg/9ed6_nQfnMrUg05r027NxL2aUp_091DFxQGup7yyecw.js line 1 > eval line 1023 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1627245532042	geckodriver	INFO	Listening on 127.0.0.1:62876
+1627245533063	mozrunner::runner	INFO	Running command: "/Users/fdenzer/Downloads/_/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/var/folders/sc/hfnd6xx91gncnv87fbx_wnqw0000gn/T/rust_mozprofile9bfk6n"
+*** You are running in headless mode.
+1627245533321	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/sc/hfnd6xx91gncnv87fbx_wnqw0000gn/T/rust_mozprofile9bfk6n/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 243"  data: no]
+1627245533864	Marionette	INFO	Listening on port 62891
+1627245533910	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cf.geekdo-static.com/static/js_master2_60fadf6804533.js, line 1195: unreachable code after return statement
+JavaScript warning: https://cf.geekdo-static.com/static/js_master2_60fadf6804533.js, line 1342: unreachable code after return statement
+JavaScript warning: https://cf.geekdo-static.com/static/js_master2_60fadf6804533.js, line 1375: unreachable code after return statement
+JavaScript warning: https://cf.geekdo-static.com/static/js_master2_60fadf6804533.js, line 1195: unreachable code after return statement
+JavaScript warning: https://cf.geekdo-static.com/static/js_master2_60fadf6804533.js, line 1342: unreachable code after return statement
+JavaScript warning: https://cf.geekdo-static.com/static/js_master2_60fadf6804533.js, line 1375: unreachable code after return statement
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/9ed6_nQfnMrUg05r027NxL2aUp_091DFxQGup7yyecw.js line 1 > eval line 5268 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://pagead2.googlesyndication.com/bg/9ed6_nQfnMrUg05r027NxL2aUp_091DFxQGup7yyecw.js line 1 > eval line 205 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+1627245695173	geckodriver	INFO	Listening on 127.0.0.1:55739
+1627245695183	mozrunner::runner	INFO	Running command: "/Users/fdenzer/Downloads/_/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/var/folders/sc/hfnd6xx91gncnv87fbx_wnqw0000gn/T/rust_mozprofile59GbRU"
+*** You are running in headless mode.
+1627245695434	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/sc/hfnd6xx91gncnv87fbx_wnqw0000gn/T/rust_mozprofile59GbRU/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 243"  data: no]
+1627245695971	Marionette	INFO	Listening on port 55748
+1627245696028	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cf.geekdo-static.com/static/js_master2_60fadf6804533.js, line 1195: unreachable code after return statement
+JavaScript warning: https://cf.geekdo-static.com/static/js_master2_60fadf6804533.js, line 1342: unreachable code after return statement
+JavaScript warning: https://cf.geekdo-static.com/static/js_master2_60fadf6804533.js, line 1375: unreachable code after return statement
+JavaScript warning: https://cf.geekdo-static.com/static/js_master2_60fadf6804533.js, line 1195: unreachable code after return statement
+JavaScript warning: https://cf.geekdo-static.com/static/js_master2_60fadf6804533.js, line 1342: unreachable code after return statement
+JavaScript warning: https://cf.geekdo-static.com/static/js_master2_60fadf6804533.js, line 1375: unreachable code after return statement
+JavaScript error: https://platform.twitter.com/widgets/widget_iframe.06c6ee58c3810956b7509218508c7b56.html?origin=https%3A%2F%2Fwww.boardgamegeek.com, line 18: Error: Network error.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/9ed6_nQfnMrUg05r027NxL2aUp_091DFxQGup7yyecw.js line 1 > eval line 1046 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://pagead2.googlesyndication.com/bg/K69jH8UFrOCkOTHHl3NJFfCa68pF8Bp7Mwjsnyploxc.js line 1 > eval line 4257 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+1627245785904	geckodriver	INFO	Listening on 127.0.0.1:56324
+1627245785914	mozrunner::runner	INFO	Running command: "/Users/fdenzer/Downloads/_/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/var/folders/sc/hfnd6xx91gncnv87fbx_wnqw0000gn/T/rust_mozprofilesvmuWg"
+*** You are running in headless mode.
+1627245786127	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/sc/hfnd6xx91gncnv87fbx_wnqw0000gn/T/rust_mozprofilesvmuWg/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 243"  data: no]
+1627245786859	Marionette	INFO	Listening on port 56337
+1627245786960	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cf.geekdo-static.com/static/js_master2_60fadf6804533.js, line 1195: unreachable code after return statement
+JavaScript warning: https://cf.geekdo-static.com/static/js_master2_60fadf6804533.js, line 1342: unreachable code after return statement
+JavaScript warning: https://cf.geekdo-static.com/static/js_master2_60fadf6804533.js, line 1375: unreachable code after return statement
+JavaScript warning: https://cf.geekdo-static.com/static/js_master2_60fadf6804533.js, line 1195: unreachable code after return statement
+JavaScript warning: https://cf.geekdo-static.com/static/js_master2_60fadf6804533.js, line 1342: unreachable code after return statement
+JavaScript warning: https://cf.geekdo-static.com/static/js_master2_60fadf6804533.js, line 1375: unreachable code after return statement
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/9ed6_nQfnMrUg05r027NxL2aUp_091DFxQGup7yyecw.js line 1 > eval line 2768 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://pagead2.googlesyndication.com/bg/K69jH8UFrOCkOTHHl3NJFfCa68pF8Bp7Mwjsnyploxc.js line 1 > eval line 3198 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1627246149298	geckodriver	INFO	Listening on 127.0.0.1:58301
+1627246149312	mozrunner::runner	INFO	Running command: "/Users/fdenzer/Downloads/_/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/var/folders/sc/hfnd6xx91gncnv87fbx_wnqw0000gn/T/rust_mozprofilesH8q37"
+*** You are running in headless mode.
+1627246149624	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/sc/hfnd6xx91gncnv87fbx_wnqw0000gn/T/rust_mozprofilesH8q37/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 243"  data: no]
+1627246150337	Marionette	INFO	Listening on port 58310
+1627246150365	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cf.geekdo-static.com/static/js_master2_60fadf6804533.js, line 1195: unreachable code after return statement
+JavaScript warning: https://cf.geekdo-static.com/static/js_master2_60fadf6804533.js, line 1342: unreachable code after return statement
+JavaScript warning: https://cf.geekdo-static.com/static/js_master2_60fadf6804533.js, line 1375: unreachable code after return statement
+JavaScript error: https://platform.twitter.com/widgets/widget_iframe.06c6ee58c3810956b7509218508c7b56.html?origin=https%3A%2F%2Fwww.boardgamegeek.com, line 18: Error: Network error.
+JavaScript warning: https://cf.geekdo-static.com/static/js_master2_60fadf6804533.js, line 1195: unreachable code after return statement
+JavaScript warning: https://cf.geekdo-static.com/static/js_master2_60fadf6804533.js, line 1342: unreachable code after return statement
+JavaScript warning: https://cf.geekdo-static.com/static/js_master2_60fadf6804533.js, line 1375: unreachable code after return statement
+JavaScript error: https://platform.twitter.com/widgets/widget_iframe.06c6ee58c3810956b7509218508c7b56.html?origin=https%3A%2F%2Fwww.boardgamegeek.com, line 18: Error: Network error.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/K69jH8UFrOCkOTHHl3NJFfCa68pF8Bp7Mwjsnyploxc.js line 1 > eval line 897 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://pagead2.googlesyndication.com/bg/K69jH8UFrOCkOTHHl3NJFfCa68pF8Bp7Mwjsnyploxc.js line 1 > eval line 2099 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/9ed6_nQfnMrUg05r027NxL2aUp_091DFxQGup7yyecw.js line 1 > eval line 6203 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+1627246185036	geckodriver	INFO	Listening on 127.0.0.1:58628
+1627246185046	mozrunner::runner	INFO	Running command: "/Users/fdenzer/Downloads/_/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/var/folders/sc/hfnd6xx91gncnv87fbx_wnqw0000gn/T/rust_mozprofileX9xwsQ"
+*** You are running in headless mode.
+1627246185257	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/sc/hfnd6xx91gncnv87fbx_wnqw0000gn/T/rust_mozprofileX9xwsQ/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 243"  data: no]
+1627246185799	Marionette	INFO	Listening on port 58637
+1627246185885	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cf.geekdo-static.com/static/js_master2_60fadf6804533.js, line 1195: unreachable code after return statement
+JavaScript warning: https://cf.geekdo-static.com/static/js_master2_60fadf6804533.js, line 1342: unreachable code after return statement
+JavaScript warning: https://cf.geekdo-static.com/static/js_master2_60fadf6804533.js, line 1375: unreachable code after return statement
+JavaScript warning: https://cf.geekdo-static.com/static/js_master2_60fadf6804533.js, line 1195: unreachable code after return statement
+JavaScript warning: https://cf.geekdo-static.com/static/js_master2_60fadf6804533.js, line 1342: unreachable code after return statement
+JavaScript warning: https://cf.geekdo-static.com/static/js_master2_60fadf6804533.js, line 1375: unreachable code after return statement
+JavaScript error: https://platform.twitter.com/widgets/widget_iframe.06c6ee58c3810956b7509218508c7b56.html?origin=https%3A%2F%2Fwww.boardgamegeek.com, line 18: Error: Network error.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/K69jH8UFrOCkOTHHl3NJFfCa68pF8Bp7Mwjsnyploxc.js line 1 > eval line 1472 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1627246333478	geckodriver	INFO	Listening on 127.0.0.1:59504
+1627246334507	mozrunner::runner	INFO	Running command: "/Users/fdenzer/Downloads/_/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/var/folders/sc/hfnd6xx91gncnv87fbx_wnqw0000gn/T/rust_mozprofilecj0w8K"
+*** You are running in headless mode.
+1627246334805	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/sc/hfnd6xx91gncnv87fbx_wnqw0000gn/T/rust_mozprofilecj0w8K/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 243"  data: no]
+1627246335465	Marionette	INFO	Listening on port 59520
+1627246335561	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cf.geekdo-static.com/static/js_master2_60fadf6804533.js, line 1195: unreachable code after return statement
+JavaScript warning: https://cf.geekdo-static.com/static/js_master2_60fadf6804533.js, line 1342: unreachable code after return statement
+JavaScript warning: https://cf.geekdo-static.com/static/js_master2_60fadf6804533.js, line 1375: unreachable code after return statement
+JavaScript warning: https://cf.geekdo-static.com/static/js_master2_60fadf6804533.js, line 1195: unreachable code after return statement
+JavaScript warning: https://cf.geekdo-static.com/static/js_master2_60fadf6804533.js, line 1342: unreachable code after return statement
+JavaScript warning: https://cf.geekdo-static.com/static/js_master2_60fadf6804533.js, line 1375: unreachable code after return statement
+JavaScript error: https://platform.twitter.com/widgets/widget_iframe.06c6ee58c3810956b7509218508c7b56.html?origin=https%3A%2F%2Fwww.boardgamegeek.com, line 18: Error: Network error.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/9ed6_nQfnMrUg05r027NxL2aUp_091DFxQGup7yyecw.js line 1 > eval line 3153 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1627246390749	geckodriver	INFO	Listening on 127.0.0.1:59907
+1627246390759	mozrunner::runner	INFO	Running command: "/Users/fdenzer/Downloads/_/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/var/folders/sc/hfnd6xx91gncnv87fbx_wnqw0000gn/T/rust_mozprofileII0oYC"
+*** You are running in headless mode.
+1627246390998	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/sc/hfnd6xx91gncnv87fbx_wnqw0000gn/T/rust_mozprofileII0oYC/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 243"  data: no]
+1627246391713	Marionette	INFO	Listening on port 59916
+1627246391808	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cf.geekdo-static.com/static/js_master2_60fadf6804533.js, line 1195: unreachable code after return statement
+JavaScript warning: https://cf.geekdo-static.com/static/js_master2_60fadf6804533.js, line 1342: unreachable code after return statement
+JavaScript warning: https://cf.geekdo-static.com/static/js_master2_60fadf6804533.js, line 1375: unreachable code after return statement
+JavaScript warning: https://cf.geekdo-static.com/static/js_master2_60fadf6804533.js, line 1195: unreachable code after return statement
+JavaScript warning: https://cf.geekdo-static.com/static/js_master2_60fadf6804533.js, line 1342: unreachable code after return statement
+JavaScript warning: https://cf.geekdo-static.com/static/js_master2_60fadf6804533.js, line 1375: unreachable code after return statement
+JavaScript error: https://platform.twitter.com/widgets/widget_iframe.06c6ee58c3810956b7509218508c7b56.html?origin=https%3A%2F%2Fwww.boardgamegeek.com, line 18: Error: Network error.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/9ed6_nQfnMrUg05r027NxL2aUp_091DFxQGup7yyecw.js line 1 > eval line 2853 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/9ed6_nQfnMrUg05r027NxL2aUp_091DFxQGup7yyecw.js line 1 > eval line 5575 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1627246527291	geckodriver	INFO	Listening on 127.0.0.1:60720
+1627246527301	mozrunner::runner	INFO	Running command: "/Users/fdenzer/Downloads/_/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/var/folders/sc/hfnd6xx91gncnv87fbx_wnqw0000gn/T/rust_mozprofilesWnUtq"
+*** You are running in headless mode.
+1627246527498	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/sc/hfnd6xx91gncnv87fbx_wnqw0000gn/T/rust_mozprofilesWnUtq/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 243"  data: no]
+1627246528254	Marionette	INFO	Listening on port 60729
+1627246528345	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cf.geekdo-static.com/static/js_master2_60fadf6804533.js, line 1195: unreachable code after return statement
+JavaScript warning: https://cf.geekdo-static.com/static/js_master2_60fadf6804533.js, line 1342: unreachable code after return statement
+JavaScript warning: https://cf.geekdo-static.com/static/js_master2_60fadf6804533.js, line 1375: unreachable code after return statement
+JavaScript warning: https://cf.geekdo-static.com/static/js_master2_60fadf6804533.js, line 1195: unreachable code after return statement
+JavaScript warning: https://cf.geekdo-static.com/static/js_master2_60fadf6804533.js, line 1342: unreachable code after return statement
+JavaScript warning: https://cf.geekdo-static.com/static/js_master2_60fadf6804533.js, line 1375: unreachable code after return statement
+JavaScript error: https://platform.twitter.com/widgets/widget_iframe.06c6ee58c3810956b7509218508c7b56.html?origin=https%3A%2F%2Fwww.boardgamegeek.com, line 18: Error: Network error.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/9ed6_nQfnMrUg05r027NxL2aUp_091DFxQGup7yyecw.js line 1 > eval line 7143 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/9ed6_nQfnMrUg05r027NxL2aUp_091DFxQGup7yyecw.js line 1 > eval line 2267 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+1627246562376	geckodriver	INFO	Listening on 127.0.0.1:61023
+1627246562386	mozrunner::runner	INFO	Running command: "/Users/fdenzer/Downloads/_/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/var/folders/sc/hfnd6xx91gncnv87fbx_wnqw0000gn/T/rust_mozprofileeH4KpS"
+*** You are running in headless mode.
+1627246562600	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/sc/hfnd6xx91gncnv87fbx_wnqw0000gn/T/rust_mozprofileeH4KpS/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 243"  data: no]
+1627246563358	Marionette	INFO	Listening on port 61032
+1627246563434	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cf.geekdo-static.com/static/js_master2_60fadf6804533.js, line 1195: unreachable code after return statement
+JavaScript warning: https://cf.geekdo-static.com/static/js_master2_60fadf6804533.js, line 1342: unreachable code after return statement
+JavaScript warning: https://cf.geekdo-static.com/static/js_master2_60fadf6804533.js, line 1375: unreachable code after return statement
+JavaScript warning: https://cf.geekdo-static.com/static/js_master2_60fadf6804533.js, line 1195: unreachable code after return statement
+JavaScript warning: https://cf.geekdo-static.com/static/js_master2_60fadf6804533.js, line 1342: unreachable code after return statement
+JavaScript warning: https://cf.geekdo-static.com/static/js_master2_60fadf6804533.js, line 1375: unreachable code after return statement
+JavaScript error: https://platform.twitter.com/widgets/widget_iframe.06c6ee58c3810956b7509218508c7b56.html?origin=https%3A%2F%2Fwww.boardgamegeek.com, line 18: Error: Network error.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/9ed6_nQfnMrUg05r027NxL2aUp_091DFxQGup7yyecw.js line 1 > eval line 6470 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/9ed6_nQfnMrUg05r027NxL2aUp_091DFxQGup7yyecw.js line 1 > eval line 6505 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/9ed6_nQfnMrUg05r027NxL2aUp_091DFxQGup7yyecw.js line 1 > eval line 521 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://pagead2.googlesyndication.com/bg/9ed6_nQfnMrUg05r027NxL2aUp_091DFxQGup7yyecw.js line 1 > eval line 7635 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://analytics.webgains.io/pvClk.min.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://analytics.webgains.io/pvClk.min.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://analytics.webgains.io/pvClk.min.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://analytics.webgains.io/pvClk.min.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://analytics.webgains.io/pvClk.min.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://analytics.webgains.io/pvClk.min.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://analytics.webgains.io/pvClk.min.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://analytics.webgains.io/pvClk.min.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/9ed6_nQfnMrUg05r027NxL2aUp_091DFxQGup7yyecw.js line 1 > eval line 5766 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://pagead2.googlesyndication.com/bg/9ed6_nQfnMrUg05r027NxL2aUp_091DFxQGup7yyecw.js line 1 > eval line 3405 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://analytics.webgains.io/pvClk.min.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://analytics.webgains.io/pvClk.min.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://analytics.webgains.io/pvClk.min.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://analytics.webgains.io/pvClk.min.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://analytics.webgains.io/pvClk.min.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://analytics.webgains.io/pvClk.min.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://analytics.webgains.io/pvClk.min.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://analytics.webgains.io/pvClk.min.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://pagead2.googlesyndication.com/bg/9ed6_nQfnMrUg05r027NxL2aUp_091DFxQGup7yyecw.js line 1 > eval line 7068 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://pagead2.googlesyndication.com/bg/9ed6_nQfnMrUg05r027NxL2aUp_091DFxQGup7yyecw.js line 1 > eval line 4318 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/9ed6_nQfnMrUg05r027NxL2aUp_091DFxQGup7yyecw.js line 1 > eval line 1807 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://pagead2.googlesyndication.com/bg/9ed6_nQfnMrUg05r027NxL2aUp_091DFxQGup7yyecw.js line 1 > eval line 3412 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.

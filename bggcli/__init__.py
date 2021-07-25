@@ -23,11 +23,11 @@ BGG_SUPPORTED_FIELDS = ['objectname', 'objectid', 'rating', 'own',
                         '_versionid']
 
 BGG_SUPPORTED_FIELDS = ['own',
-                        'want', 'wanttobuy', 'wanttoplay', 'prevowned',
+                        # 'want', 'wanttobuy', 'wanttoplay', 'prevowned',
                         'preordered',
                         'fortrade', 'conditiontext',   # these must be in this order
                         'wishlist', 'wishlistpriority', 'wishlistcomment', # these must be in this order
-                        'comment', 'rating',
+                        # 'comment', 'rating',
                         'pricepaid', 'currvalue', 
                         'acquisitiondate', 'acquiredfrom', 'quantity', 'privatecomment',
                         'haspartslist', 'wantpartslist','publisherid', 'imageid',

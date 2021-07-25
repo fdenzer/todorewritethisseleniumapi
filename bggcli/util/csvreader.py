@@ -25,7 +25,7 @@ class CsvReader:
     @staticmethod
     def count_lines(f):
         count = 0
-        tmp_reader = csv.DictReader(f)
+        tmp_reader = csv.DictReader(f, delimiter=',')
         for _ in tmp_reader:
             count += 1
         f.seek(0)
@@ -33,7 +33,7 @@ class CsvReader:
 
     def open(self):
         self.rowCount = self.count_lines(self.file)
-        self.reader = csv.DictReader(self.file)
+        self.reader = csv.DictReader(self.file, delimiter=',')
         self.check()
 
     def iterate(self, callback):

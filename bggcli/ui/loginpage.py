@@ -5,11 +5,8 @@ bgg.loginpage
 Selenium Page Object to bind the login page and perform authentication
 
 """
-#import urllib2
-try:
-    from urllib.parse import quote
-except:
-    from urllib2 import quote
+from urllib.parse import quote
+
 
 from selenium.common.exceptions import NoSuchElementException
 
@@ -32,7 +29,7 @@ class LoginPage(BasePage):
 
         # When user is already authenticated, just skip this task
         # TODO Handle case where another user is logged in
-        if self.is_authenticated(login):
+        if self.is_authenticated():
             Logger.info(" (already logged) [done]", append=True)
             return True
 
@@ -41,7 +38,7 @@ class LoginPage(BasePage):
         self.driver.find_element_by_xpath("//tr//td//input[@type='submit']")\
             .click()
 
-        if self.is_authenticated(login):
+        if self.is_authenticated():
             Logger.info(" [done]", append=True)
             return True
 
@@ -49,24 +46,13 @@ class LoginPage(BasePage):
         Logger.error("Authentication failed, check your credentials!")
         return False
 
-    def is_authenticated(self, login):
+    def is_authenticated(self):
         try:
-            self.driver.find_element_by_xpath("//span[@class='mygeek-dropdown-username']"
+            from selenium.webdriver.firefox.webelement import FirefoxWebElement
+            msgbox: FirefoxWebElement = self.driver.find_element_by_xpath("//div[@class='messagebox']"
                                               )
-            return True
-        except NoSuchElementException:
-            # try: # BGG 2018 style when on a boardgame page.
-            # #<button class="btn btn-sm" type="button" login-required="">Sign In</button>
-                # self.driver.find_element_by_xpath("//button[@login-required]") 
-                # return False
-            # except NoSuchElementException:
-                # return True
-            try: # BGG 2018, when on a boardgame page.
-                #<span class="hidden-md hidden-lg"> 									MSGreg 								</span>
-                self.driver.find_element_by_xpath("//span[@class='hidden-md hidden-lg' and contains(text(),'{}')]".format(quote(login))) 
-                return True
-            except NoSuchElementException:
-                return False
+            txt = msgbox.text
 
-#            'span[starts-with(@ng-show,"colltoolbarctrl.collection.items.length") and contains(text(),"In Collection")]'
-                
+            return 'Login Successful' == txt
+        except NoSuchElementException:
+            return False

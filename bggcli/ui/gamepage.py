@@ -248,14 +248,16 @@ class GamePage(BasePage):
                         dep = dependencies.get(key,None)
                         if dep:
                             #print 'depends on: ',
-                            for k,v in dep.items(): # for python 2: iteritems()
-                                #print '{}={}?'.format(k,v),
-                                if str(game_attrs[k]) != str(v):
+                            for k,v in dep.items():
+                                print(f'{k}={v}')
+                                left = str(game_attrs[k])
+                                right = str(v)
+                                if left != right:
                                     dontdo = 1
                         if dontdo:
                             continue
                         getattr(self, "fill_%s" % key)(value)
-        except:
+        except Exception as e:
             Logger.info("\nEXCEPTION.", append=True, break_line=True)
             traceback.print_exc()
             return False
@@ -346,27 +348,6 @@ class GamePage(BasePage):
         #element = wd.find_element_by_link_text(self.locator)
         hov = ActionChains(self.driver).move_to_element(element)
         hov.perform()
-        
-    # Verified BGG 2018
-    def fill_rating(self, value):
-        # hover over a star, then the input box will appear. Then fill the box
-        #<i ng-repeat-end="" ng-mouseenter="enter($index + 1)" ng-click="rate($index + 1)" class="glyphicon fi-star" ng-class="$index < value &amp;&amp; (r.stateOn || 'glyphicon-star') || (r.stateOff || 'glyphicon-star-empty')" ng-attr-title="{{r.title}}" title="10 Stars" style=""></i>
-        star = self.itemEl.find_element_by_xpath('(//i[@class="glyphicon fi-star"])[1]')
-        #print(star.location_once_scrolled_into_view)
-        star.location_once_scrolled_into_view
-        self.hover(star)
-        #<input type="text" class="form-control input-sm rating-stars-textbox ng-empty has-rating-border- ng-touched" ng-model="editctrl.editdata.item.rating" ng-show="editctrl.editdata.item.rating || overstar != null" value="" style="">
-        
-        #<input type="text" class="form-control input-sm rating-stars-textbox has-rating-border- ng-touched" ng-model="editctrl.editdata.item.rating" ng-show="editctrl.editdata.item.rating || overstar != null" value="" style="">
-        self.update_text(self.wait.until(
-            EC.element_to_be_clickable((By.XPATH, '//input[@ng-model="editctrl.editdata.item.rating"]'))), value)
-        
-        # td = self.driver.find_element_by_xpath("//td[contains(@id, 'CEcell_rating')]")
-        # td.click()
-
-        # self.update_text(self.wait.until(
-            # EC.element_to_be_clickable((By.XPATH, "//input[@style='editrating']"))), value)
-        # td.find_element_by_xpath(".//input[@type='submit']").click()
 
     def fill_weight(self, value):
         self.update_select(self.itemEl.find_element_by_xpath(".//select[@name='weight']"), value)
