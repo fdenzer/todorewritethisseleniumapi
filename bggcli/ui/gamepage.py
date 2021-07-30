@@ -239,7 +239,7 @@ class GamePage(BasePage):
         Logger.info("Updating fields: ", append=True, break_line=False)
         try:
             for key in BGG_SUPPORTED_FIELDS:
-                dontdo = 0
+                dontdo = False
                 if key in game_attrs:
                     value = game_attrs[key]
                     if value is not None:
@@ -253,7 +253,7 @@ class GamePage(BasePage):
                                 left = str(game_attrs[k])
                                 right = str(v)
                                 if left != right:
-                                    dontdo = 1
+                                    dontdo = True
                         if dontdo:
                             continue
                         getattr(self, "fill_%s" % key)(value)
@@ -269,7 +269,7 @@ class GamePage(BasePage):
         # import selenium.webdriver.common.actions.pointer_actions 
         # selenium.webdriver.common.actions.pointer_actions().click(savebutton)
         #Logger.info("submitting, ", append=True, break_line=False)
-        form.submit() ;
+        form.submit()
         Logger.info("submitted. ", append=True, break_line=False)
         time.sleep(0.1)
         # action.moveToElement(savebutton).click().perform();
